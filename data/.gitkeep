@@ -1,0 +1,6 @@
+# Ce fichier permet de garder le dossier data dans git
+# Fichiers de données attendus :
+# - employee_survey_data.csv (fourni)
+# - manager_survey_data.csv (fourni)
+# - general_data.csv (à ajouter manuellement - fichier trop lourd)
+# - in_out_time.zip (à ajouter manuellement - fichier trop lourd)
