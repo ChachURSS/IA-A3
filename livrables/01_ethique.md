@@ -63,10 +63,10 @@ Protection de la vie privée et gestion responsable des données personnelles.
 ### Application au projet
 
 **Conformité RGPD :**
-- ✅ Base légale : Intérêt légitime de l'entreprise pour réduire le turnover
-- ✅ Minimisation des données : Seules les données nécessaires sont collectées
-- ✅ Limitation de conservation : Politique de rétention définie
-- ✅ Droit d'accès : Les employés peuvent demander leurs données
+-  Base légale : Intérêt légitime de l'entreprise pour réduire le turnover
+-  Minimisation des données : Seules les données nécessaires sont collectées
+-  Limitation de conservation : Politique de rétention définie
+-  Droit d'accès : Les employés peuvent demander leurs données
 
 **Mesures de protection :**
 
@@ -92,10 +92,10 @@ Le fonctionnement du système doit être explicable et compréhensible.
 ### Application au projet
 
 **Documentation fournie :**
-- 📄 Ce document éthique
-- 📊 Notebook avec visualisations explicatives
-- 📚 Bibliographie des sources utilisées
-- 💻 Code source commenté
+-  Ce document éthique
+-  Notebook avec visualisations explicatives
+-  Bibliographie des sources utilisées
+-  Code source commenté
 
 **Explicabilité du modèle :**
 - **Feature Importance** : Identification des facteurs les plus influents
@@ -148,9 +148,9 @@ Impact positif sur l'environnement et la société.
 ### Application au projet
 
 **Impact environnemental :**
-- 🌱 Modèle léger (pas de GPU nécessaire)
-- 💾 Données stockées localement (pas de cloud intensif)
-- ⚡ Entraînement occasionnel (pas de calcul continu)
+-  Modèle léger (pas de GPU nécessaire)
+-  Données stockées localement (pas de cloud intensif)
+-  Entraînement occasionnel (pas de calcul continu)
 
 **Impact sociétal positif :**
 - Amélioration des conditions de travail
@@ -212,11 +212,11 @@ Développeur/Data Scientist
 
 Ce projet d'analyse du taux d'attrition s'inscrit dans une démarche éthique et responsable. Les mesures décrites dans ce document visent à garantir :
 
-1. ✅ Le respect des droits fondamentaux des employés
-2. ✅ La fiabilité et la transparence du système
-3. ✅ La protection des données personnelles
-4. ✅ L'équité de traitement
-5. ✅ Un impact positif pour l'entreprise et ses collaborateurs
+1.  Le respect des droits fondamentaux des employés
+2.  La fiabilité et la transparence du système
+3.  La protection des données personnelles
+4.  L'équité de traitement
+5.  Un impact positif pour l'entreprise et ses collaborateurs
 
 ### Recommandations finales
 
